@@ -1,4 +1,4 @@
-# 🚀 Trabajo Práctico: Análisis Técnico de Stored Procedures - Sample Vault
+# 🚀 Análisis Técnico de Stored Procedures - Sample Vault
 
 Este repositorio contiene un análisis de sistemas enfocado en la implementación de **Stored Procedures (Procedimientos Almacenados)** en el proyecto *Sample Vault*. Se evalúa de manera crítica su integración con un backend en Node.js, la seguridad de las transacciones y el impacto en la escalabilidad y consistencia de los datos.
 
